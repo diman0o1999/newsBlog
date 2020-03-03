@@ -1,10 +1,13 @@
 logs
 *.log
-npm-debug.log*
 .idea
 .npm
 .node_relp_history
 .cache
 *.tgz
 .Trash-*
-node_modules/
+.nyc_output
+coverage
+lib
+node_modules
+npm-debug.log*
