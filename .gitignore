@@ -7,7 +7,10 @@ logs
 *.tgz
 .Trash-*
 .nyc_output
+.firebase
+.firebaserc
 coverage
+firebase.json
 lib
 node_modules
 npm-debug.log*
