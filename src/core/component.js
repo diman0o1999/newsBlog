@@ -4,9 +4,9 @@ export class Component {
         this.init()
     }
 
-    init () {}
+    init() {}
 
-    hide () {
+    hide() {
         this.$el.classList.add('hide')
     }
 
