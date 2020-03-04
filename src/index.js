@@ -14,7 +14,7 @@ const favorite = new FavoriteComponent('favorite')
 
 //регистрирую табы
 navigation.registerTabs([
-    {name: 'create', component: 'create'},
-    {name: 'posts', component: 'posts'},
-    {name: 'favorite', component: 'favorite'},
+    {name: 'create', component: create},
+    {name: 'posts', component: posts},
+    {name: 'favorite', component: favorite}
 ])
